@@ -1,5 +1,6 @@
 # MeterQuest Marketplace
 
+View Demo Video here in the end: [https://youtu.be/RY-Pnzh9I0E](https://youtu.be/RY-Pnzh9I0E)
 This is the place to shop your game assets using the DGN game token and later use these to equip the purchased heroes inside the dungeon based MeterQuest Game. Gas fees are paid in MTR tokens
 
 Mint items, buy and sell and also view them in the collectibles dashboard.
